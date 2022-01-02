@@ -198,7 +198,7 @@ body {
     font-size: 15px;
     font-family: 'Press Start 2P', cursive;
     text-align: center;
-    color: #ff8f5f;
+    color: blue;
     }
 
 
@@ -208,7 +208,7 @@ body {
     border: 3px ridge white;
     width: 24%;
     text-align: center;
-    color: #235c00;
+    color: #0000ff;
     text-decoration: none;
     background: rgba(255, 255, 255,0.2);
     background-position: bottom;
