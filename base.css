@@ -15,7 +15,7 @@ body {
     justify-content: center;
     align-items: center;
     background: rgb(1255, 255, 255,0.2);
-    font-size: 2rem;
+    font-size: 1.5rem;
     color: #fff;
     box-shadow: rgba(3, 8, 20, 0.1) 0px 0.15rem 0.5rem, rgba(2, 8, 20, 0.1) 0px 0.075rem 0.175rem;
     height: 100%;
@@ -31,12 +31,12 @@ body {
  }
 
  a{
-   color: #e8d4c2;
-   text-shadow: 2px 2px #235c00;
+   color: #ff00ff;
+   text-shadow: 2px 2px #233873;
    }
 
  a:visited {
-   color: #233873;
+   color: white;
    }
 
 .card:hover {

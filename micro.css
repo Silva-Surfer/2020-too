@@ -68,7 +68,7 @@ html {
 body {
     /* path to custom cursor
     cursor: url('images/cursor.ani'), default;*/
-    font-family: 'Sedgwick Ave', cursive;
+    font-family: 'Press Start 2P', cursive;
     font-family: 'Lato', sans-serif;
     font-size: 20px;
     }
@@ -195,8 +195,8 @@ body {
     bottom: 30vh;
     width: 66%;
     left: 17%;
-    font-size: 30px;
-    font-family: 'Allerta Stencil', sans-serif;
+    font-size: 15px;
+    font-family: 'Press Start 2P', cursive;
     text-align: center;
     color: #ff8f5f;
     }
